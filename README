@@ -1,0 +1,1 @@
+python train.py --strategy=logaugment &> /proj/BigLearning/ahjiang/output/augmentation/dgaexp/randaugment-sweep-200105.txt
